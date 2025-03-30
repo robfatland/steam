@@ -10,3 +10,7 @@ and the [nexus how-to](https://robfatland.github.io/nexus/).
 
 
 On topics from the core ste(a)m curriculum, typically at the undergraduate wavelength.
+
+
+This is as much about curating resources as anything. 
+For example: [an historical perspective on special relativity](https://youtu.be/qG5PzdbtoQo?si=XRI3d9pgC8q0tLu1).
